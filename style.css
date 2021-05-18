@@ -1,0 +1,90 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    background-color: #00f7ff;
+}
+
+img {
+    border-color: #6f00ff;
+    height: 300px;
+    width: 300px;
+}
+
+#E-M {
+    color: #6f00ff;
+    font-family: monospace;
+}
+
+#Cont {
+    color: #6f00ff;
+    font-family: monospace;
+}
+
+#Molly {
+    color: #6f00ff;
+    font-family: monospace;
+}
+
+.link:hover {
+    background-color: #6f00ff;
+    color: #00f7ff;
+}
+
+#ImA {
+    width: 350px;
+    height: 350px;
+}
+
+#FaQ {
+    color: #6f00ff;
+    font-family: monospace;
+}
+
+#Study {
+    color: #6f00ff;
+    font-family: sans-serif;
+}
+
+#Time {
+    height: 100px;
+    width: 100px;
+}
+
+#Book {
+    height: 100px;
+    width: 100px;
+}
+
+#map {
+    height: 100px;
+    width: 100px;
+}
+
+#Labs {
+    height: 100px;
+    width: 100px;
+}
+
+#Free {
+    height: 100px;
+    width: 100px;
+}
+
+#Stooks {
+    cursor: pointer;
+}
+
+#Tool {
+    cursor: pointer;
+}
+
+#Wap {
+    cursor: pointer;
+}
+
+#AAb {
+    cursor: pointer;
+}
